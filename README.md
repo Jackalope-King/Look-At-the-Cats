@@ -1,2 +1,3 @@
 # cat
-theme: minima
+theme: slate
+#
