@@ -1,4 +1,3 @@
-<body style="background-color:#4a148c">
 # Welcome !!! This webpage will serve as a musuem of: pictures of cats. 
 ## Han
 ### This is my cat Han. He is about 5 years old now and is a perfect being. Big and fluffy, and very chill. Often desrcibed as a pillowpet.
@@ -18,4 +17,4 @@
 ![Cat10](https://lh3.google.com/u/0/d/17dl-qeB81EqObb422VhCHvU2Cfmbor0H=w1920-h880-iv1)
 ![Cat11](https://lh3.google.com/u/0/d/1BY75jC9VdKzMtKIAsMvgKWAf26DThzeA=w1920-h880-iv1)
 ![Cat12](https://lh3.google.com/u/0/d/1AfQk9OzLPBgskz98m_FVxG2onUnRYmhA=w1920-h880-iv1)
-
+<body style="background-color:#4a148c">
